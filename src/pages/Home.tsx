@@ -1,15 +1,21 @@
 import { Link } from 'react-router-dom';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { getArticles } from '../lib/articles';
+import type { Article } from '../types';
 
 export default function Home() {
+  const [articles, setArticles] = useState<Article[]>([]);
 
   useEffect(() => {
     window.scrollTo(0, 0);
-  }, []); 
 
+    const load = async () => {
+      const data = await getArticles();
+      setArticles(data);
+    };
 
-  const articles = getArticles();
+    load();
+  }, []);
 
   if (articles.length === 0) {
     return (
@@ -19,7 +25,6 @@ export default function Home() {
     );
   }
 
-  // Feature the first article
   const featured = articles[0];
   const list = articles.slice(1);
 
