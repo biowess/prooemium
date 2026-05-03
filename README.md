@@ -9,24 +9,16 @@
   <img
     alt="React 19.0.1"
     src="https://img.shields.io/badge/React-19.0.1-F3E7D3?style=flat-square&labelColor=2A2118&logo=react&logoColor=CBB38A"
-  />
-
-  <img
+  /> <img
     alt="Vite 6.2.3"
     src="https://img.shields.io/badge/Vite-6.2.3-F3E7D3?style=flat-square&labelColor=2A2118&logo=vite&logoColor=D8BE8A"
-  />
-
-  <img
+  /> <img
     alt="TypeScript 5.8.2"
     src="https://img.shields.io/badge/TypeScript-5.8.2-F3E7D3?style=flat-square&labelColor=2A2118&logo=typescript&logoColor=C9AE7B"
-  />
-
-  <img
+  /> <img
     alt="Tailwind CSS 4.1.14"
     src="https://img.shields.io/badge/Tailwind_CSS-4.1.14-F3E7D3?style=flat-square&labelColor=2A2118&logo=tailwindcss&logoColor=DCC39A"
-  />
-
-  <img
+  /> <img
     alt="React Router 7.14.2"
     src="https://img.shields.io/badge/React_Router-7.14.2-F3E7D3?style=flat-square&labelColor=2A2118&logo=reactrouter&logoColor=C7A06A"
   />
