@@ -1,0 +1,35 @@
+{
+  "slug": "architecture-of-intent",
+  "title": "The Architecture of Intent: Why We Lean on the Grid",
+  "date": "2026-05-03",
+  "excerpt": "True creative liberty isn't found in a vacuum; it’s built within the strict logic of the modular framework.",
+  "readTime": "5 min read",
+  "author": "Mohammed W. Hammami (after J. Müller-Brockmann)",
+  "content": [
+    { 
+      "type": "paragraph", 
+      "text": "Think of the grid not as a cage, but as a map. It doesn't dictate your destination; it simply ensures you don't get lost in the weeds of your own indecision. While it provides a structural safety net, it is by no means a shortcut to good design. Mastering the grid is a discipline of the ego—one must learn to speak its language before they can use it to shout." 
+    },
+    { 
+      "type": "paragraph", 
+      "text": "The history of typography is essentially a long-running argument between the wild heart of expression and the cold hand of logic. The grid is where they finally agree to shake hands. By introducing mathematical discipline to the void, we stop guessing where an element 'feels' right and start understanding exactly why it belongs there." 
+    },
+    { 
+      "type": "heading", 
+      "text": "The Geometry of Calm" 
+    },
+    { 
+      "type": "paragraph", 
+      "text": "A layout without a system is often just a collection of elements having a panic attack. The human eye craves a hidden logic—a subcutaneous structure that guides the viewer through the noise. It is the invisible scaffolding that allows the content to stand upright without leaning on gimmicks." 
+    },
+    { 
+      "type": "quote", 
+      "text": "The use of the grid system implies the will to systematize, to clarify. The will to penetrate to the essentials, to concentrate. The will to cultivate objectivity instead of subjectivity.", 
+      "citation": "Josef Müller-Brockmann" 
+    },
+    { 
+      "type": "paragraph", 
+      "text": "Today’s screens have forced our grids to flex, stretch, and snap, but the core ethos remains unshakable. Whether you’re wrangling complex CSS Grid tracks or sketching on a paper napkin, the pursuit is identical: finding that perfect, harmonious proportion that makes a design feel inevitable rather than accidental." 
+    }
+  ]
+}
