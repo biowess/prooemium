@@ -11,7 +11,7 @@ export default defineConfig({
 
   // GitHub Pages repo deployment
   // https://username.github.io/preoomium/
-  base: '/preoomium/',
+  base: '/prooemium/',
 
   resolve: {
     alias: {
