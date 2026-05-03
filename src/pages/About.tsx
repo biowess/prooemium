@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom';
 import { useEffect } from 'react';
-import photo from '../assets/photo.png';
 
 export default function About() {
 
@@ -19,8 +18,8 @@ export default function About() {
 
 
 <div className="w-full aspect-[3/4] border border-[#111111] bg-neutral-200 mb-8 grayscale relative overflow-hidden">
-  <img 
-  src={photo}
+ <img 
+  src="/assets/photo.png"
   alt="Author"
   className="w-full h-full object-cover"
 />
