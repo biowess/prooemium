@@ -18,11 +18,12 @@ export default function About() {
 
 
 <div className="w-full aspect-[3/4] border border-[#111111] bg-neutral-200 mb-8 grayscale relative overflow-hidden">
- <img 
-  src="../assets/photo.png"
-  alt="Author"
-  className="w-full h-full object-cover"
-/>
+  <img 
+    src="/assets/photo.png" 
+    alt="Author" 
+    className="w-full h-full object-cover"
+  />
+  {/* This maintains your cool newsprint dot effect over the photo */}
   <div className="absolute inset-0 bg-[radial-gradient(#000_1px,transparent_1px)] bg-[size:8px_8px] opacity-20 pointer-events-none"></div>
 </div>
 
