@@ -5,7 +5,9 @@
       src="https://img.shields.io/badge/live%20demo-biowess.github.io%2Fprooemium-F3E7D3?style=flat-square&labelColor=2A2118&color=E8D6B8&logo=vercel&logoColor=F8F3EA"
     />
   </a>
+</p>
 
+<p align="center">
   <img
     alt="React 19.0.1"
     src="https://img.shields.io/badge/React-19.0.1-F3E7D3?style=flat-square&labelColor=2A2118&logo=react&logoColor=CBB38A"
