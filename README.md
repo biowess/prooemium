@@ -1,12 +1,35 @@
 <p align="center">
   <a href="https://biowess.github.io/prooemium">
-    <img alt="Live Demo" src="https://img.shields.io/badge/live%20demo-biowess.github.io%2Fprooemium-F9F9F7?style=flat-square&labelColor=111111" />
+    <img
+      alt="Live Demo"
+      src="https://img.shields.io/badge/live%20demo-biowess.github.io%2Fprooemium-F3E7D3?style=flat-square&labelColor=2A2118&color=E8D6B8&logo=vercel&logoColor=F8F3EA"
+    />
   </a>
-  <img alt="React 19.0.1" src="https://img.shields.io/badge/React-19.0.1-F9F9F7?style=flat-square&labelColor=111111&logo=react&logoColor=F9F9F7" />
-  <img alt="Vite 6.2.3" src="https://img.shields.io/badge/Vite-6.2.3-F9F9F7?style=flat-square&labelColor=111111&logo=vite&logoColor=F9F9F7" />
-  <img alt="TypeScript 5.8.2" src="https://img.shields.io/badge/TypeScript-5.8.2-F9F9F7?style=flat-square&labelColor=111111&logo=typescript&logoColor=F9F9F7" />
-  <img alt="Tailwind CSS 4.1.14" src="https://img.shields.io/badge/Tailwind_CSS-4.1.14-F9F9F7?style=flat-square&labelColor=111111&logo=tailwindcss&logoColor=F9F9F7" />
-  <img alt="React Router 7.14.2" src="https://img.shields.io/badge/React_Router-7.14.2-F9F9F7?style=flat-square&labelColor=111111&logo=reactrouter&logoColor=F9F9F7" />
+
+  <img
+    alt="React 19.0.1"
+    src="https://img.shields.io/badge/React-19.0.1-F3E7D3?style=flat-square&labelColor=2A2118&logo=react&logoColor=CBB38A"
+  />
+
+  <img
+    alt="Vite 6.2.3"
+    src="https://img.shields.io/badge/Vite-6.2.3-F3E7D3?style=flat-square&labelColor=2A2118&logo=vite&logoColor=D8BE8A"
+  />
+
+  <img
+    alt="TypeScript 5.8.2"
+    src="https://img.shields.io/badge/TypeScript-5.8.2-F3E7D3?style=flat-square&labelColor=2A2118&logo=typescript&logoColor=C9AE7B"
+  />
+
+  <img
+    alt="Tailwind CSS 4.1.14"
+    src="https://img.shields.io/badge/Tailwind_CSS-4.1.14-F3E7D3?style=flat-square&labelColor=2A2118&logo=tailwindcss&logoColor=DCC39A"
+  />
+
+  <img
+    alt="React Router 7.14.2"
+    src="https://img.shields.io/badge/React_Router-7.14.2-F3E7D3?style=flat-square&labelColor=2A2118&logo=reactrouter&logoColor=C7A06A"
+  />
 </p>
 
 # Prooemium
