@@ -19,7 +19,7 @@ export default function About() {
 
 <div className="w-full aspect-[3/4] border border-[#111111] bg-neutral-200 mb-8 grayscale relative overflow-hidden">
   <img 
-    src="../public/assets/photo.png" 
+    src="/public/assets/photo.png" 
     alt="Author" 
     className="w-full h-full object-cover"
   />
