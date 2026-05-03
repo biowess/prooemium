@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { useEffect } from 'react';
-import photo from '../assets/photo.png';
+import photo from '../../assets/photo.png';
 
 export default function About() {
 
